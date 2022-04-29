@@ -1,1 +1,1 @@
-export { ExampleComponent } from './exampleComponent'
+export {neat} from './neat'
